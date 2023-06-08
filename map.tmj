@@ -1866,6 +1866,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"jitsiAuditorium"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4502,6 +4507,12 @@
                  "y":830
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
