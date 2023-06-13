@@ -4013,11 +4013,6 @@
                          "value":"door_open_entrance"
                         }, 
                         {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
-                        }, 
-                        {
                          "name":"persist",
                          "type":"bool",
                          "value":false
@@ -4054,11 +4049,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"door_open_terrasse"
-                        }, 
-                        {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -4099,11 +4089,6 @@
                          "value":"door_open_auditorium"
                         }, 
                         {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
-                        }, 
-                        {
                          "name":"persist",
                          "type":"bool",
                          "value":false
@@ -4140,11 +4125,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"door_open_room_top_center"
-                        }, 
-                        {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -4185,11 +4165,6 @@
                          "value":"door_open_room_top_right"
                         }, 
                         {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
-                        }, 
-                        {
                          "name":"persist",
                          "type":"bool",
                          "value":false
@@ -4226,11 +4201,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"door_open_middle"
-                        }, 
-                        {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
